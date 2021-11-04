@@ -1,10 +1,12 @@
 <h1> Yo Yo <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <p align="center">
   <a href="https://www.facebook.com/Mr.Rabbit.AdAM">
-    <img src="https://img.shields.io/badge/FaceBook-Pyae%20Sone%20Hmoo%20-blue"</a>
+    <img src="https://img.shields.io/badge/FaceBook-Pyae%20Sone%20Hmoo%20-blue">
+</a>
 
    <a href="tiktok.com/@pyaesonehmoo0"
-     <img src="https://img.shields.io/badge/Tik%20Tok-Pyae%20Sone%20Hmoo%20-green"</a>
+     <img src="https://img.shields.io/badge/Tik%20Tok-Pyae%20Sone%20Hmoo%20-green">
+</a>
 
 <pr>
    <a href="https://github.com/Mr-Rabbit-AdAM">
