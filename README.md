@@ -1,5 +1,5 @@
 <h1> Yo Yo <br>
-<img src="https://www.icegif.com/wp-content/uploads/icegif-2013.gif" width="80"></h1>
+<img src="https://www.icegif.com/wp-content/uploads/icegif-2013.gif" width="100"></h1>
 <p align="center">
   <a href="https://www.facebook.com/Mr.Rabbit.AdAM">
     <img src="https://img.shields.io/badge/FaceBook-Pyae%20Sone%20Hmoo%20-blue">
