@@ -1,4 +1,4 @@
-<h1> Yo Yo class="middle"<br>
+<h1> Yo Yo class="middle" <br>
 <img src="https://www.icegif.com/wp-content/uploads/icegif-2013.gif" class="middle" alt="Luffy" title="Luffy">
 </h1>
 <p align="center">
