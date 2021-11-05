@@ -17,4 +17,5 @@
 <a href="https://github.com/Mr-Rabbit-AdAM">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Rabbit-AdAM&layout=compact&theme=chartreuse-dark&langs_count=8" />
   </a>
+<a href="https://github.com/Mr-Rabbit-AdAM">
 <img align="center" src="https://metrics.lecoq.io/Mr-Rabbit-AdAM?"/>
