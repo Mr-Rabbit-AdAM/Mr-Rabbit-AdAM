@@ -1,5 +1,7 @@
 <h1> Yo Yo <br>
-<img src="https://www.icegif.com/wp-content/uploads/icegif-2013.gif" class="middle">
+<img src="https://www.icegif.com/wp-content/uploads/icegif-2013.gif" 
+
+>
 </h1>
 <p align="center">
   <a href="https://www.facebook.com/Mr.Rabbit.AdAM">
