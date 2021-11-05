@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/FaceBook-Pyae%20Sone%20Hmoo%20-blue">
 </a>
 
-   <a href="tiktok.com/@pyaesonehmoo0">
+   <a href="https://tiktok.com/@pyaesonehmoo0">
      <img src="https://img.shields.io/badge/Tik%20Tok-Pyae%20Sone%20Hmoo%20-green">
 </a>
 
